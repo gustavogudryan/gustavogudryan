@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">Hi there, I'm Gustavo Gudryan</h1>
+  <h1 align="center">Hi there 👋, I'm Gustavo Gudryan</h1>
   <h3 align="center">Fullstack web developer student at Growdev..</h4>
 </div>
 
@@ -18,3 +18,9 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
  </div>
+
+<div align="center">
+  <a href="https://github.com/marcelacdarocha">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelacdarocha&show_icons=true&theme=city_lights&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelacdarocha&layout=compact&langs_count=7&theme=city_lights"/>
+</div>
