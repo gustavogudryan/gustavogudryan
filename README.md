@@ -3,12 +3,10 @@
   <h3 align="center">Fullstack web developer student at Growdev..</h4>
 </div>
 
-<div>
   - Hobbies:
   - Education:
   - Favorite programming language
   - What Am I Studying At The Moment
-</div>
 
 <div>
   <h2>🚀 Skills</h2>
