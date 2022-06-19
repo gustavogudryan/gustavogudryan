@@ -8,6 +8,7 @@
   - 🖥️ <strong>Favorite programming language:</strong> JS and Python.
   - 📖 <strong>What Am I Studying At The Moment:</strong> I'm studying html/css, js and python.
 
+##
 
 <div> 
   <a href="http://api.whatsapp.com/send?1=pt_BR&phone=5551998292730" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
