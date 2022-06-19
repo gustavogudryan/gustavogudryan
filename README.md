@@ -1,6 +1,8 @@
+<div style="align-text:center">
 ## Hi there 👋 I'm Gustavo Gudryan
 
 #
+</div>
 
 # 🚀 Skills
 
