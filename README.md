@@ -4,6 +4,13 @@
 </div>
 
 <div>
+  - Hobbies:
+  - Education:
+  - Favorite programming language
+  - What Am I Studying At The Moment
+</div>
+
+<div>
   <h2>🚀 Skills</h2>
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
