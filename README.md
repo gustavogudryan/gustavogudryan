@@ -1,7 +1,7 @@
 <div style="align-text:center">
-## Hi there 👋 I'm Gustavo Gudryan
-
-#
+  <h1>Hi there 👋 I'm Gustavo Gudryan</h1>
+  <p>teste</p>
+  
 </div>
 
 # 🚀 Skills
