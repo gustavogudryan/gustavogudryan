@@ -1,9 +1,7 @@
 <div align="center">
-  <h1 align="center">Hi there <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Gustavo Gudryan</h1>
-  <h4 align="center">Fullstack web developer.</h4>
+  <h1 align="center">Hi there, I'm Gustavo Gudryan</h1>
+  <h3 align="center">Fullstack web developer student at Growdev..</h4>
 </div>
-
-
 
 <div>
   <h2>🚀 Skills</h2>
