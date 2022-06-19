@@ -3,10 +3,10 @@
   <h3 align="center">Fullstack web developer student at Growdev..</h4>
 </div>
 
-  - Hobbies: Play video games, listen to music, read a book.
-  - Education: Studying Growdev Full Stack Web Program.
-  - Favorite programming language: JS and Python.
-  - What Am I Studying At The Moment: I'm studying html/css, js and python.
+  - 🪕 Hobbies: Play video games, listen to music, read a book.
+  - 🎒 Education: Studying Growdev Full Stack Web Program.
+  - 🖥️ Favorite programming language: JS and Python.
+  - 📖 What Am I Studying At The Moment: I'm studying html/css, js and python.
 
 <div>
   <h2>🚀 Skills</h2>
