@@ -4,9 +4,9 @@
 </div>
 
   - 🪕 <strong>Hobbies:</strong> Play video games, listen to music, read a book.
-  - 🎒 Education: Studying Growdev Full Stack Web Program.
-  - 🖥️ Favorite programming language: JS and Python.
-  - 📖 What Am I Studying At The Moment: I'm studying html/css, js and python.
+  - 🎒 <strong>Education:</strong> Studying Growdev Full Stack Web Program.
+  - 🖥️ <strong>Favorite programming language:</strong> JS and Python.
+  - 📖 <strong>What Am I Studying At The Moment:</strong> I'm studying html/css, js and python.
 
 <div>
   <h2>🚀 Skills</h2>
