@@ -25,4 +25,4 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavogudryan&layout=compact&langs_count=7&theme=city_lights"/>
 </div>
 
-![Snake animation](https://github.com/montoyaaa/montoyaaa/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/gustavogudryan/gustavogudryan/blob/output/github-contribution-grid-snake.svg)
