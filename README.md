@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">Hi there 👋, I'm Gustavo Gudryan</h1>
-  <h3 align="center">Fullstack web developer student at Growdev..</h4>
+  <h3 align="center">Fullstack web developer student at Growdev..</h3>
 </div>
 
   - 🪕 <strong>Hobbies:</strong> Play video games, listen to music, read a book.
